@@ -7,6 +7,7 @@ public class Main {
         System.out.println("Nombres: Gean Patricio Ponce Oto");
         System.out.println("Nombres: 0984655005");
         System.out.println("Dirección: Carcelén Alto");
+        System.out.println("Facultad: ESFOT");
 
     }
 }
