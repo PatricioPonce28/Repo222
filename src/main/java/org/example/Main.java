@@ -4,13 +4,9 @@ package org.example;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello mundo como esatas");
-        System.out.printf("Prueba dos a ver si vale");
-        System.out.printf("Prueba dos a ver si vale");
-        System.out.printf("Prueba dos a ver si vale");
-        System.out.printf("Prueba dos a ver si vale");
+        System.out.println("Nombres: Gean Patricio Ponce Oto");
+        System.out.println("Nombres: 0984655005");
+        System.out.println("Dirección: Carcelén Alto");
 
     }
 }
